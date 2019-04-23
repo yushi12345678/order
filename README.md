@@ -18,9 +18,7 @@ react实现订单列表及评价功能
 -----------------------------------------------------------------------------------------------------
 5.效果图
 --------
-![Homepage](Images/11.png)
-
-![Homepage](Images/22.png)
+![Homepage](Images/11.png)![Homepage](Images/22.png)
 
 ![Homepage](Images/33.png)
 
